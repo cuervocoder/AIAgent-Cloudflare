@@ -1,13 +1,5 @@
 # 🎉 AI Content Payment Agent - Complete Package
 
-## 📦 Download
-
-### [⬇️ DOWNLOAD: arc-ai-agent.zip (24 KB)](computer:///mnt/user-data/outputs/arc-ai-agent.zip)
-
-**Complete serverless AI agent for automated USDC payments on Arc blockchain**
-
----
-
 ## 📋 What's Included
 
 ```
@@ -201,10 +193,5 @@ npm run deploy
 
 ---
 
-## 📦 Download Again
-
-### [⬇️ arc-ai-agent.zip (24 KB)](computer:///mnt/user-data/outputs/arc-ai-agent.zip)
-
----
 
 🚀 **Ready to deploy your AI agent!**
